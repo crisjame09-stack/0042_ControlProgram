@@ -14,7 +14,7 @@ string GraduationStatus(float r){
             return "Graduated with Good Standing";
         }
     else
-        return "Failed";
+        return "Failed" ;
 }
 
 int main(){
