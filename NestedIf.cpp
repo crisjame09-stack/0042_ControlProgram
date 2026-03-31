@@ -2,7 +2,7 @@
 using namespace std;
 
 float Average(float a, float b){
-    return (a+b)/2;
+    return (a+b) / 2;
 }
 
 string GraduationStatus(float r){
