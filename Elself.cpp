@@ -15,7 +15,6 @@ string GraduationStatus(float r){
 int main(){
     float engScore, mathScore, average;
     string status;
-
     cout << "Enter English score = ";
     cin >> engScore;
     cout << "Enter Math score = ";
